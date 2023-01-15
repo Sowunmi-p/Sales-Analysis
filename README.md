@@ -1,2 +1,2 @@
-# code-2
+# First project
 Jupiter notebook project
